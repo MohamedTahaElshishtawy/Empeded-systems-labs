@@ -1,0 +1,5 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo16 -N"C:\Users\mohamed\Desktop\empedded systems projects\LCD_With_Keybad\code\LCD_With_Keybad.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\mohamed\Desktop\empedded systems projects\LCD_With_Keybad\code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "LCD_With_Keybad.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	LCD_With_Keybad.c
+error: 20	324	Undeclared identifier 'Lcd_init' in expression	LCD_With_Keybad.c
+error: 0	102	Finished (with errors): 20 Jun 2022, 18:29:14	LCD_With_Keybad.mcppi

@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\two-7seg\code\two_7seg.mcppi
+Project1=LCD_With_Keybad.mcppi
+[ActiveProject]
+Index=1
